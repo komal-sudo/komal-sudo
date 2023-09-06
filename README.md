@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @komal-sudo
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning ethical hacking
+- 👋 Hi, I’m @komal
+- 👀 I’m here explore Cyber Security and Data Science.
+- 🌱 I’m currently pursuing Bachelor of computer(BCA).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
