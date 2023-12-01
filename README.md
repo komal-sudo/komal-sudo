@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @komal
-- 👀 I’m here explore Cyber Security and Data Science.
-- 🌱 I’m currently pursuing Bachelor of computer(BCA).
+- 👋 Hi, I’m @Komal Verma 
+- 👀 I’m passionate cybersecurity learner.
+- 🌱 I’m currently pursuing Bachelor of computer(BCA) from Manipal University Jaipur.
 - 💞️ I’m looking to collaborate on new projects.
 
 <!---
